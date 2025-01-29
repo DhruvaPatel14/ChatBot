@@ -1,6 +1,6 @@
 # ChatBot
 
-This project is a simple backend implementation for a ChatGPT clone using OpenAI's GPT API. The backend is built with Node.js and Express, providing an API endpoint to handle user queries and return responses from the GPT model.
+This project is a simple backend implementation for a ChatGPT clone using OpenAI's GPT API. providing an API endpoint to handle user queries and return responses from the GPT model.
 
 Features
 API endpoint to send messages to OpenAI's GPT-3.5/4 model.
